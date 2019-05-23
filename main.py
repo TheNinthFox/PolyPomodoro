@@ -47,7 +47,7 @@ def process(start_time, file_path):
 
 
 if __name__ == '__main__':
-    file_path = "/home/fox/.cache/pomodoro"
+    file_path = "/tmp/pomodoro"
     work_duration = 25 * 60
     start_time = -1
 
